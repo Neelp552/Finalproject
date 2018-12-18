@@ -3,17 +3,6 @@
     background-size: 100%;
 }
 
-.mt-5,
-.my-5 {
-    margin-top: 3rem !important; }
+.dropdown-menu.show {
+    display: block; }
 
-.row{
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-flex-wrap: wrap;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px; }
